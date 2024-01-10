@@ -11,3 +11,4 @@ function fib(n) {
     }
     return result
 }
+console.log(fib(8))
